@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+https://c.tenor.com/H-NXH7iOy_gAAAAC/gojo-satoru-jujutsu-kaisen.gif
+
 <!--
 **EdgarMLee/EdgarMLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
