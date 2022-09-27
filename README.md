@@ -9,7 +9,7 @@
       * watching anime/kdrama/crime drama shows 📺
       * playing Valorant, League of Legends, and Fall Guys 🕹️
       * working out, rockclimbing, and badminton 🏸
-      * Listening to Krnb, Kpop, top hits, or Rap 🎵
+      * listening to Krnb, Kpop, top hits, or Rap 🎵
 </p>
 
 
