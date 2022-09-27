@@ -1,6 +1,18 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B%2C+my+name+is+Edgar+Lee)](https://git.io/typing-svg)
 <br>
 
+<p>
+<img align="center" src="https://i.pinimg.com/originals/c1/3e/7f/c13e7f371b14f93e91808200631b8a81.gif" width="300" />
+  <br>
+   <h4>Some of my hobbies includes:</h4>
+   
+      * watching anime/kdrama/crime drama shows 📺
+      * playing Valorant, League of Legends, and Fall Guys 🕹️
+      * working out, rockclimbing, and badminton 🏸
+      * Listening to Krnb, Kpop, top hits, or Rap 🎵
+</p>
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Here+are+some+skills+I+learned%3A)](https://git.io/typing-svg)
 <br>
 ### Languages:
@@ -43,4 +55,15 @@
 </p>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=EdgarMLee&color=3f62c0"/>
+</p>
+
+<h2><p align="center">
+Let's connect!
+</p></h2>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/edgar-lee-1357el135/">LinkedIn</a>
+</p>
+<p align="center">
+<a href="https://www.instagram.com/edgarmlee/">Instagram</a>
 </p>
