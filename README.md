@@ -2,7 +2,7 @@
 <br>
 
 <p>
-<img align="center" src="https://i.pinimg.com/originals/c1/3e/7f/c13e7f371b14f93e91808200631b8a81.gif" width="300" />
+<img align="center" src="https://c.tenor.com/H-NXH7iOy_gAAAAC/gojo-satoru-jujutsu-kaisen.gif" width="400" />
   <br>
    <h4>Some of my hobbies includes:</h4>
    
