@@ -67,3 +67,6 @@ Let's connect!
 <p align="center">
 <a href="https://www.instagram.com/edgarmlee/">Instagram</a>
 </p>
+<p align="center">
+<a href="https://angel.co/u/edgar-mun-jun-lee">AngelList</a>
+</p>
