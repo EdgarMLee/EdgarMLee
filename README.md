@@ -62,6 +62,9 @@ Let's connect!
 </p></h2>
 
 <p align="center">
+<a href="https://edgarmlee.github.io/">Portfolio</a>
+</p>
+<p align="center">
 <a href="https://www.linkedin.com/in/edgar-lee-1357el135/">LinkedIn</a>
 </p>
 <p align="center">
