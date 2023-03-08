@@ -6,7 +6,7 @@
   <br>
    <h4>Some of my hobbies includes:</h4>
    
-      * watching anime/kdrama/crime drama shows 📺
+      * watching anime/popular tv shows/crime drama shows 📺
       * playing Valorant, League of Legends, and Fall Guys 🕹️
       * working out, rockclimbing, and badminton 🏸
       * listening to Krnb, Kpop, top hits, or Rap 🎵
