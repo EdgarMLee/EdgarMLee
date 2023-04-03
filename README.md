@@ -47,7 +47,8 @@
 <br>
 
 ### LC Stats:
-![Leetcode Stats](https://leetcard.jacoblin.cool/EdgarMLee?border=0&radius=15)
+![image](https://user-images.githubusercontent.com/101891232/229612603-7f0cf66f-ba8c-410b-8942-8152e1f92e55.png)
+
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
