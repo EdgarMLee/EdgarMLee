@@ -44,7 +44,9 @@
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+<br>
 
+### LC Stats:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/EdgarMLee?border=0&radius=15)
 
 <p align="center">
