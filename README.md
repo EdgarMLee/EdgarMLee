@@ -45,6 +45,8 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/EdgarMLee?border=0&radius=15)
+
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height ="250px" width="420px" align="center" src="https://github-readme-stats.vercel.app/api?username=EdgarMLee&theme=github_dark&hide_border=true" />
@@ -53,6 +55,7 @@
   <img height ="250px" width="350px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdgarMLee&layout=compact&theme=github_dark&hide_border=true" />
 </a>
 </p>
+  
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=EdgarMLee&color=3f62c0"/>
 </p>
