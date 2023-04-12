@@ -47,7 +47,10 @@
 <br>
 
 ### LC Stats:
-![image](https://user-images.githubusercontent.com/101891232/229612603-7f0cf66f-ba8c-410b-8942-8152e1f92e55.png)
+![image](https://user-images.githubusercontent.com/101891232/231546692-7f259b89-7330-4d30-96ca-d31807e05552.png)
+
+
+
 
 
 <p align="center">
