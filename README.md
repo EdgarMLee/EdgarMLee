@@ -46,9 +46,6 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 <br>
 
-### LC Stats:
-![image](https://user-images.githubusercontent.com/101891232/231546692-7f259b89-7330-4d30-96ca-d31807e05552.png)
-
 
 
 
